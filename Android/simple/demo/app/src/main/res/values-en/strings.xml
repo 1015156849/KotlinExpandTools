@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KT TEST</string>
+    <string name="switch_to_chinese">Switch to Chinese</string>
+    <string name="switch_to_english">Switch to English</string>
+    <string name="switch_to_japanese">Switch to Japanese</string>
+    <string name="language">Language</string>
+    <string name="picture">Picture</string>
+    <string name="loading_network_pictures">Loading Network Pictures</string>
+    <string name="loading_resource_map">Loading Resource Map</string>
+</resources>
